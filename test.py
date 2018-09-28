@@ -6,3 +6,4 @@ x = input("Primer valor: ")
 y = input("Segundo valor: ")
 
 print("Resultado: " + str(mything(x,y)))
+print("ya we")
