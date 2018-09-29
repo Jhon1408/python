@@ -1,4 +1,5 @@
 #Cambio pendejo para probar algo.
+#Pues si wey no mames
 class Animal():
 	"""docstring for Animal"""
 	def __init__(self, color, name):
