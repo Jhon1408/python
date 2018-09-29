@@ -1,5 +1,5 @@
 #Cambio pendejo para probar algo.
-#Pues si wey no mames
+#Pues si wey no mames, xddd
 class Animal():
 	"""docstring for Animal"""
 	def __init__(self, color, name):
